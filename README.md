@@ -72,7 +72,7 @@ The Power BI dashboard includes:
 ---
 
 ## 📸 Dashboard Preview  
-*(Add screenshot(s) of your final dashboard here)*  
+ 
 
 ---
 
