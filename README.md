@@ -1,5 +1,4 @@
 # Marketing-Campaign-Analysis-Power-BI-Dashboard
-# 📊 Marketing Campaign Analysis – Power BI Dashboard
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f301988a-144f-49c7-aa61-67d8945329df" />
 
 ## 🔹 Project Overview  
