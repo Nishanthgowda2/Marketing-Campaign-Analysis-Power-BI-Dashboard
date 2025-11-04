@@ -69,9 +69,7 @@ The Power BI dashboard includes:
 - Consistent formatting & styling (Format Painter)  
 - Borders & shadows for distinction  
 
----
 
-## 📸 Dashboard Preview  
  
 
 ---
